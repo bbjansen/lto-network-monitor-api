@@ -38,7 +38,7 @@ app.all('/',
     figlet('LTO Node Monitor API', function (err, data) {
       res.set('Content-Type', 'text/plain')
       res.status(200).send(`${data} v1.0 \n
-      nodes: /v1/nodes
+      nodes: /v1/nodes/all
       `)
     })
   })
