@@ -6,7 +6,7 @@ Frontend API for [LTO Node Monitor](https://github.com/bbjansen/lto-node-monitor
 - [LTO Node Monitor](https://github.com/bbjansen/lto-node-monitor)
 
 ## API Routes
-- `/v1/`
+- `/v1/nodes/all`
 
 ## .env example
 ```
