@@ -1,5 +1,5 @@
 {
-  "name": "lto-node-monitor-api",
+  "name": "lto-network-monitor-api",
   "version": "0.1.0",
   "description": "API frontend to LTO Node Monitor backed by a SQL DB.",
   "main": "app.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bbjansen/lto-node-monitor-api.git"
+    "url": "git+https://github.com/bbjansen/lto-network-monitor-api.git"
   },
   "keywords": [
     "lto",
@@ -21,9 +21,9 @@
   "author": "bbjansen <bobjansen@pm.me>",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/bbjansen/lto-node-monitor-api/issues"
+    "url": "https://github.com/bbjansen/lto-network-monitor-api/issues"
   },
-  "homepage": "https://github.com/bbjansen/lto-node-monitor-api#readme",
+  "homepage": "https://github.com/bbjansen/lto-network-monitor-api#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cluster": "^0.7.7",
