@@ -1,8 +1,9 @@
 # LTO Node Monitor API
-Frontend API for [LTO Node Monitor](https://github.com/bbjansen/lto-node-monitor).
+> Frontend API for [LTO Node Monitor](https://github.com/bbjansen/lto-node-monitor).
 
 ## Requirements
 - Node.js v8+
+- [knex.js]('https://knexjs.org) supported database.
 - [LTO Node Monitor](https://github.com/bbjansen/lto-node-monitor)
 
 ## API Routes
