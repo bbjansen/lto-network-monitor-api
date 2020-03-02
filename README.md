@@ -13,7 +13,7 @@
 ```
 APP_PORT=8676
 DB_NAME=db
-DB_FILE=/home/fexra/Projects/LTO/lto-network-monitor/db.sqlite3
+DB_FILE=db.sqlite3
 LIMIT_TOTAL=1000
 LIMIT_EXPIRE=1000
 ```
