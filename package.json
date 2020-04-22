@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/bbjansen/lto-network-monitor-api#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "body-parser": "^1.19.0",
     "cluster": "^0.7.7",
     "compression": "^1.7.4",
